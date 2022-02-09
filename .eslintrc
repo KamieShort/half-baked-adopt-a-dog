@@ -22,18 +22,18 @@
     "no-console": "warn",
     "indent": [
       "error",
-      4,
+      2,
       {
         "SwitchCase": 1,
         "ignoreComments": true
       }
     ],
     "quotes": [
-      "error", 
-      "single",
-      { 
+      "error",
+      "double",
+      {
         "avoidEscape": true,
-        "allowTemplateLiterals": true 
+        "allowTemplateLiterals": true
       }
     ],
     "no-multi-spaces": [
